@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bentoml/llm-optimizer/commit/7be87d776e60a978516a2ae53e4a4ff745d04c20",
       "git:hexsha": "7be87d776e60a978516a2ae53e4a4ff745d04c20",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T03:29:33.169503+00:00"
     }
   ]
 }
