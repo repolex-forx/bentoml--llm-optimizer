@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "llm-optimizer",
+  "versions": [
+    {
+      "commit": "7be87d776e60a978516a2ae53e4a4ff745d04c20",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:29:33.170005+00:00"
+    }
+  ]
+}
